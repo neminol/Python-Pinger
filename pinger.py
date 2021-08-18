@@ -2,7 +2,7 @@ import os
 
 print('#' * 60)
 
-print('python-pinger by 0xChasee(KalenMajic)') 
+print('python-pinger by 0xChasee(nem)') 
 
 print('#' * 60)
 print('-' * 60)      
